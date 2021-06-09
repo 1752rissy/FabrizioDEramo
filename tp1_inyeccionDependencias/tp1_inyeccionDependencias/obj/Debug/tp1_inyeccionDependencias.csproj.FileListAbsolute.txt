@@ -1,0 +1,7 @@
+C:\Users\fabryy\Documents\Programacion\tp1_inyeccionDependencias\tp1_inyeccionDependencias\bin\Debug\tp1_inyeccionDependencias.exe.config
+C:\Users\fabryy\Documents\Programacion\tp1_inyeccionDependencias\tp1_inyeccionDependencias\bin\Debug\tp1_inyeccionDependencias.exe
+C:\Users\fabryy\Documents\Programacion\tp1_inyeccionDependencias\tp1_inyeccionDependencias\bin\Debug\tp1_inyeccionDependencias.pdb
+C:\Users\fabryy\Documents\Programacion\tp1_inyeccionDependencias\tp1_inyeccionDependencias\obj\Debug\tp1_inyeccionDependencias.csprojAssemblyReference.cache
+C:\Users\fabryy\Documents\Programacion\tp1_inyeccionDependencias\tp1_inyeccionDependencias\obj\Debug\tp1_inyeccionDependencias.csproj.CoreCompileInputs.cache
+C:\Users\fabryy\Documents\Programacion\tp1_inyeccionDependencias\tp1_inyeccionDependencias\obj\Debug\tp1_inyeccionDependencias.exe
+C:\Users\fabryy\Documents\Programacion\tp1_inyeccionDependencias\tp1_inyeccionDependencias\obj\Debug\tp1_inyeccionDependencias.pdb
